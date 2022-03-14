@@ -1,0 +1,6 @@
+venv
+raw_files
+clean_data
+logs
+plugins
+logs/*.*
